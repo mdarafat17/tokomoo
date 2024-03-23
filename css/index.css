@@ -1,7 +1,8 @@
 body{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;}
+  box-sizing: border-box;
+font-family: Truculenta ;}
   
 .navber{
   
@@ -11,9 +12,11 @@ body{
   align-items: center;
   background-color: #FF0090;
   padding: 0 50px 0 50px;
+  /* position: fixed;
+  width: 100%; */
   
 }
-
+.fixd-navber{position: fixed;}
 
 .logo h3{
   font-size: 24px;
@@ -31,7 +34,7 @@ nav ul li a{
   
 }
 .o1 {
-  background-image: url(/Photo/photo/business-team-with-tablet-pc-and-coffee-at-office-P5XPAG3.jpg);
+  background-image: url(/photo/business-team-with-tablet-pc-and-coffee-at-office-P5XPAG3.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -106,11 +109,12 @@ nav ul li a{
   /* padding: 150px 15px 150px 35px; */
   text-align: center;
   
+  
    
   
 }
 .photo-2nd{
-  background-image: url(/Photo/photo/02.png);
+  background-image: url(/photo/01.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -136,7 +140,7 @@ nav ul li a{
   
 }
 .photo-3rd{
-  background-image: url(/Photo/photo/03.gif);
+  background-image: url(/photo/03.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -173,7 +177,7 @@ nav ul li a{
   text-align: center;
 }
 .photo-4th{
-  background-image: url(/Photo/photo/04.gif);
+  background-image: url(/photo/04.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -264,7 +268,7 @@ input{
 
 }
 .white_p{ 
-  background-image: url(/Photo/photo/w.jpg);
+  background-image: url(/photo/w.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -291,7 +295,7 @@ input{
   margin:0px 10px 150px 100px ;
 }
 .black_p{
-  background-image: url(/Photo/photo/b.jpg);
+  background-image: url(/photo/b.jpg);
    background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
