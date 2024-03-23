@@ -1,0 +1,158 @@
+@media ( min-width: 576px) {
+  
+}
+ 
+@media ( min-width: 768px) {
+  .navber
+  {flex-direction: row;}
+  
+  .text01{
+  width: 50%;
+  padding: 150px 15px 0px 35px;
+  }
+  .photo-2nd{
+  background-image: url(/Photo/photo/02.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 540px;
+  width: 50%;
+  border: 5px;
+  border-color: black;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+.servic{
+  display: flex;
+  margin: 0 100px 0 100px;
+}
+.text02{
+  padding: 150px 15px 0px 35px;
+}
+.servic{flex-direction: row;}
+.servic02{flex-direction: row;
+}
+.text02{
+  padding: 170px 15px 170px 35px;
+  
+  text-align: center;
+  width: 50%;
+}
+.servic02{margin: 25px 100px 0 100px;
+}
+.servic03{
+  display: flex;
+  flex-direction: row;
+  margin: 25px 100px 0 100px;}
+.text03{
+  
+  padding: 150px 15px 150px 35px;
+text-align: center;
+width: 50%;}
+.photo-4th{width: 50%;}
+.photo-3rd{width: 50%;}
+
+
+
+.gif-s img{
+  border: 25px solid black;
+  border-radius: 10px;
+
+}
+.white_p{
+  background-position: center;
+  width: 50%;
+
+}
+.gif-d{
+  display: flex;
+  flex-direction: row;
+  margin: -8px 0 0 0;
+  
+
+}
+.white_p{width: 50%; }
+.white_p h2{
+  font-size: 50px;
+  padding: 150px 10px 0px 100px ;}
+.white_p p{padding: 0px 10px 0px 100px ;}
+.black_p{width: 50%;
+margin-top: 0px;}
+.black_p h2{
+ font-size: 50px;
+  padding: 150px 10px 0px 100px ;
+}
+.black_p p{
+  padding: 0px 10px 0px 100px ;
+}
+.foot{
+  background-color: rgb(171, 168, 168);
+  display: flex;
+  justify-content: space-between;
+  /* flex-direction: column; */
+  padding: 25px 30px 25px 30px;
+}
+.part1{
+  display: flex;
+  
+  height: 20px;
+  width: 20px;
+  background-color: white;
+  gap: 5px;
+  padding-top: 70px;
+}
+.part2{
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  text-align: center;
+  margin-left: 50px;
+}
+.part3{
+  font-size: 20px;
+  padding-top: 70px;
+}
+}
+
+}
+@media ( min-width: 992px) {
+ 
+  .navber{
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+.gif-s p{
+  font-size: 20px;
+}
+
+
+}
+
+@media ( min-width: 1200px) {
+  .text01{
+  width: 50%;
+  padding: 150px 15px 150px 35px;
+  
+}
+.text02{
+  padding: 150px 15px 150px 35px;}
+.foot{
+  background-color: rgb(171, 168, 168);
+  display: flex;
+  justify-content: space-between;
+  /* flex-direction: column; */
+  padding: 25px 30px 25px 30px;
+}
+.part1{
+  display: flex;
+  
+  height: 30px;
+  width: 30px;
+  background-color: white;
+  gap: 5px;
+}
+form{width: 25%;}}
+@media ( min-width: 1400px) {
+}
