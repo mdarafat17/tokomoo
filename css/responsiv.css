@@ -9,9 +9,20 @@
   .text01{
   width: 50%;
   padding: 150px 15px 0px 35px;
+  
+  }
+  .text01 h3{
+    font-size: 50px;
+  
+  }
+  .text02 h3{
+    font-size: 50px;
+  }
+  .text03 h3{
+    font-size: 50px;
   }
   .photo-2nd{
-  background-image: url(/Photo/photo/02.png);
+  background-image: url(/photo/01.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -113,7 +124,7 @@ margin-top: 0px;}
 }
 }
 
-}
+
 @media ( min-width: 992px) {
  
   .navber{
